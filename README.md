@@ -14,6 +14,8 @@ Avinoam defined dozens of fish species, among them a subspecies of Epinefelus ta
 Avinoam was involved in the development and design of zoos in Israel and was involved in many areas of volunteering throughout his life
 </p>
 
+<img src="https://m.media-amazon.com/images/I/413s+wgmU0L.jpg"><img/>
+
 
 
 
