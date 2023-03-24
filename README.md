@@ -14,6 +14,8 @@ Avinoam defined dozens of fish species, among them a subspecies of Epinefelus ta
 Avinoam was involved in the development and design of zoos in Israel and was involved in many areas of volunteering throughout his life
 </p>
 
+<a href="https://idolou.github.io/AvinoamLourie.github.io/">To The Website</a>
+
 <img src="https://m.media-amazon.com/images/I/413s+wgmU0L.jpg"><img/>
 
 
@@ -22,18 +24,4 @@ Avinoam was involved in the development and design of zoos in Israel and was inv
 
 
 
-<!--
-**idolou/idolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
