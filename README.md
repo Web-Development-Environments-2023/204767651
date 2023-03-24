@@ -15,31 +15,7 @@ Avinoam was involved in the development and design of zoos in Israel and was inv
 </p>
 
 <a href="https://idolou.github.io/AvinoamLourie.github.io/" target="_blank"
-   <style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>>To The Website</a>
+>To The Website</a>
 
 <img src="https://m.media-amazon.com/images/I/413s+wgmU0L.jpg"><img/>
 
